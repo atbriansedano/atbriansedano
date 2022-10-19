@@ -2,7 +2,7 @@
 - 👀 I’m interested in videogame development
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on interesting projects that will challenge my knowledge
-- 📫 How to reach me :)
+- 📫 How to reach me -> atbriansedano@gmail.com
 
 <!---
 atbriansedano/atbriansedano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
